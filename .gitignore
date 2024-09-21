@@ -20,6 +20,11 @@
 # Go workspace file
 go.work
 go.work.sum
+go.sum
 
 # env file
 .env
+
+# node
+node_modules
+*lock*
